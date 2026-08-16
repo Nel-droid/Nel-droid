@@ -1,0 +1,40 @@
+name: Update local time in README
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-time:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update time marker
+        run: |
+          NOW=$(TZ='Asia/Tashkent' date '+%A, %d %b %Y — %H:%M %Z')
+          NEW_LINE="🕒 Local time (Tashkent): ${NOW}"
+          python3 - "$NEW_LINE" << 'PY'
+          import re, sys
+          new_line = sys.argv[1]
+          content = open("README.md").read()
+          content = re.sub(
+              r"<!--TIME:START-->.*?<!--TIME:END-->",
+              f"<!--TIME:START-->{new_line}<!--TIME:END-->",
+              content,
+              flags=re.S,
+          )
+          open("README.md", "w").write(content)
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update local time"
+          git push
