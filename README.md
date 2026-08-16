@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldor-nabijonov-6714852b7/)
 [![Telegram](https://img.shields.io/badge/Telegram-@ne__th__y__ch-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ne_th_y_ch)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ne_th_y_ch)
 [![Website](https://img.shields.io/badge/cdi--practice.uz-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cdi-practice.uz)
 ![Profile Views](https://komarev.com/ghpvc/?username=Nel-droid&style=for-the-badge&color=red&label=PROFILE+VIEWS)
 
