@@ -1,6 +1,6 @@
 ### Web Developer | Offensive Security Specialist | Penetration Tester
 
-I build web applications — see [cdi-practice.uz](https://cdi-practice.uz) — and break other people's for a living. Published security researcher focused on authentication bypass, access control, and session-handling flaws in self-hosted web platforms. I find vulnerabilities, build working proof-of-concept exploits, and disclose responsibly.
+I build web applications — see [cdi-practice.uz](https://cdi-practice.uz) — and test other people's for a living. Published security researcher — I find vulnerabilities, weaponize a PoC to prove they're real, and disclose responsibly. No bug counts until it's reproduced.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/eldor-nabijonov-6714852b7/) · Telegram [@ne_th_y_ch](https://t.me/ne_th_y_ch) · [cdi-practice.uz](https://cdi-practice.uz)
 
