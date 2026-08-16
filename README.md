@@ -1,12 +1,23 @@
-### Web Developer | Offensive Security Specialist | Penetration Tester
+<div align="center">
 
-I build web applications — see [cdi-practice.uz](https://cdi-practice.uz) — and test other people's for a living. Published security researcher — I find vulnerabilities, weaponize a PoC to prove they're real, and disclose responsibly. No bug counts until it's reproduced.
+# <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Web+Developer;Offensive+Security+Specialist;Penetration+Tester" alt="Typing SVG" />
 
-🔗 [LinkedIn](https://www.linkedin.com/in/eldor-nabijonov-6714852b7/) · Telegram [@ne_th_y_ch](https://t.me/ne_th_y_ch) · [cdi-practice.uz](https://cdi-practice.uz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldor-nabijonov-6714852b7/)
+[![Telegram](https://img.shields.io/badge/Telegram-@ne__th__y__ch-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ne_th_y_ch)
+[![Website](https://img.shields.io/badge/cdi--practice.uz-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cdi-practice.uz)
+![Profile Views](https://komarev.com/ghpvc/?username=Nel-droid&style=for-the-badge&color=red&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-#### Published CVEs
+### About
+
+I build web applications — see [cdi-practice.uz](https://cdi-practice.uz) — and test other people's for a living. Published security researcher — I find vulnerabilities, weaponize a PoC to prove they're real, and disclose responsibly. No bug counts until it's reproduced.
+
+---
+
+### Published CVEs
 
 | CVE | Product | Class | Severity | PoC |
 |---|---|---|---|---|
